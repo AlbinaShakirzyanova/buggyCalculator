@@ -1,0 +1,16 @@
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\bin\Debug\net5.0\BuggyCalculator.exe
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\bin\Debug\net5.0\BuggyCalculator.deps.json
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\bin\Debug\net5.0\BuggyCalculator.runtimeconfig.json
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\bin\Debug\net5.0\BuggyCalculator.runtimeconfig.dev.json
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\bin\Debug\net5.0\BuggyCalculator.dll
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\bin\Debug\net5.0\ref\BuggyCalculator.dll
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\bin\Debug\net5.0\BuggyCalculator.pdb
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\obj\Debug\net5.0\BuggyCalculator.csprojAssemblyReference.cache
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\obj\Debug\net5.0\BuggyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\obj\Debug\net5.0\BuggyCalculator.AssemblyInfoInputs.cache
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\obj\Debug\net5.0\BuggyCalculator.AssemblyInfo.cs
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\obj\Debug\net5.0\BuggyCalculator.csproj.CoreCompileInputs.cache
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\obj\Debug\net5.0\BuggyCalculator.dll
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\obj\Debug\net5.0\ref\BuggyCalculator.dll
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\obj\Debug\net5.0\BuggyCalculator.pdb
+D:\Maxima\buggyCalculator\BuggyCalculator\BuggyCalculator\obj\Debug\net5.0\BuggyCalculator.genruntimeconfig.cache
